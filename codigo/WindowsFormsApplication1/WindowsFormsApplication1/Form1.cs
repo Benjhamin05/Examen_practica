@@ -38,8 +38,8 @@ namespace WindowsFormsApplication1
 
         private void textGenero_TextChanged(object sender, EventArgs e)
         {
-            var dalPer = new dalCliente();
-            dalPer.eliminarCliente((int)txtCodigo.Value);
+            /*var dalPer = new dalCliente();
+            dalPer.eliminarCliente((int)txtCodigo.Value);*/
         }
 
     }

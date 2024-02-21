@@ -21,7 +21,7 @@ namespace DAL
                 bd.SaveChanges();
             }
         }
-        public void eliminarCliente(int codigo)
+        /*public void eliminarCliente(int codigo)
         {
             using (var bd = new BDEXAMENEntities())
             {
@@ -29,6 +29,6 @@ namespace DAL
                 bd.CLIENTES.Remove(per);
                 bd.SaveChanges();
             }
-        }
+        }*/
     }
 }
