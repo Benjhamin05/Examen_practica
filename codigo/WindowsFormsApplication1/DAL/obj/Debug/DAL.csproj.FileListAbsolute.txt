@@ -1,0 +1,10 @@
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\DAL\bin\Debug\DAL.dll.config
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\DAL\bin\Debug\DAL.dll
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\DAL\bin\Debug\DAL.pdb
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\DAL\bin\Debug\comun.dll
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\DAL\bin\Debug\comun.pdb
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\DAL\obj\Debug\DAL.dll
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\DAL\obj\Debug\DAL.pdb

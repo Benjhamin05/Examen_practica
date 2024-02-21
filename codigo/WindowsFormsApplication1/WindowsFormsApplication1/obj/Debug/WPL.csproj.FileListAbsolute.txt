@@ -1,0 +1,15 @@
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WPL.csprojResolveAssemblyReference.cache
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WPL.csproj.GenerateResource.Cache
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\comun.dll
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAL.dll
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\comun.pdb
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAL.pdb
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

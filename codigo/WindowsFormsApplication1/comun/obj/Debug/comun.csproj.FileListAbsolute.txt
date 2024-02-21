@@ -1,0 +1,5 @@
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\comun\bin\Debug\comun.dll
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\comun\bin\Debug\comun.pdb
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\comun\obj\Debug\comun.csprojResolveAssemblyReference.cache
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\comun\obj\Debug\comun.dll
+C:\Users\sopor\OneDrive\Documentos\examen\codigo\WindowsFormsApplication1\comun\obj\Debug\comun.pdb
